@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eikasia", "vcproj-9\eikasia.vcproj", "{3A673C91-9437-49F0-8935-CAC7039914A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data Obfuscator", "vcproj-9\Data Obfuscator.vcproj", "{DB72701A-2CF0-4EAC-80E3-2A02080F38B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A673C91-9437-49F0-8935-CAC7039914A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A673C91-9437-49F0-8935-CAC7039914A7}.Debug|Win32.Build.0 = Debug|Win32
+		{3A673C91-9437-49F0-8935-CAC7039914A7}.Release|Win32.ActiveCfg = Release|Win32
+		{3A673C91-9437-49F0-8935-CAC7039914A7}.Release|Win32.Build.0 = Release|Win32
+		{DB72701A-2CF0-4EAC-80E3-2A02080F38B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB72701A-2CF0-4EAC-80E3-2A02080F38B8}.Debug|Win32.Build.0 = Debug|Win32
+		{DB72701A-2CF0-4EAC-80E3-2A02080F38B8}.Release|Win32.ActiveCfg = Release|Win32
+		{DB72701A-2CF0-4EAC-80E3-2A02080F38B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
